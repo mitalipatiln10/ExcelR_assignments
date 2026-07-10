@@ -1,0 +1,7 @@
+PatientID,Name,Department,Doctor,BillAmount,ReceptionistID,CheckInTime
+101,Alice,Cardiology,Dr. Smith,5000,1,10-01-2023 09:00
+102,Bob,Neurology,Dr. John,,2,11-01-2023 10:30
+103,Charlie,Orthopedics,Dr. Lee,7500,1,12-01-2023 11:00
+104,David,Cardiology,Dr. Smith,6200,3,13-01-2023 12:00
+105,Eva,Dermatology,Dr. Rose,,2,14-01-2023 08:45
+101,Alice,Cardiology,Dr. Smith,5000,1,10-01-2023 09:00
